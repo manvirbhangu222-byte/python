@@ -73,16 +73,16 @@
 # print('most common :' ,max)
 
 #problem 7
-dict=[{'names':'manvir','marks_math':66,'marks_science':80},
-      {'names':'singhh','marks_math':60,'marks_science':88},
-      {'names':'bhangu','marks_math':6,'marks_science':8}]
-top=""
-highest=0
-for i in dict:
-   average=(i['marks_math']+i['marks_science'])/2
-   if average > highest:
-      highest=average
-      top=i
+# dict=[{'names':'manvir','marks_math':66,'marks_science':80},
+#       {'names':'singhh','marks_math':60,'marks_science':88},
+#       {'names':'bhangu','marks_math':6,'marks_science':8}]
+# top=""
+# highest=0
+# for i in dict:
+#    average=(i['marks_math']+i['marks_science'])/2
+#    if average > highest:
+#       highest=average
+#       top=i
     
 
-print('top',top['names'],"with avg:",average)
+# print('top',top['names'],"with avg:",average)
