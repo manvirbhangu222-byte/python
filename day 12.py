@@ -70,7 +70,4 @@ sentence=(input("what is your sentence : "))
 my_list=[i for i in sentence.split() if len(i)>4]
 print(my_list)
 
-# problem 6 : flatten 2d list 
-words= [[1,2,3],[4,5,6],[7,8,9]]
-my_list=[i for row in words for i in row]
-print(my_list)
+
