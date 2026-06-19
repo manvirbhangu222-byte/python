@@ -1,0 +1,3 @@
+manvir,  56
+singh,  78
+bhangu,  78
